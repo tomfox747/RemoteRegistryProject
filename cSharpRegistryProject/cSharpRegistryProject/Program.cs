@@ -12,7 +12,7 @@ namespace cSharpRegistryProject
     {
         static void Main(string[] args)
         {
-            IPHostEntry entry = Dns.GetHostEntry("192.168.0.46");
+            IPHostEntry entry = Dns.GetHostEntry("192.168.0.46"); //Type the IP address of the destination device
             var hostName = entry.HostName;
 
             Console.WriteLine("attempting to access device...");
