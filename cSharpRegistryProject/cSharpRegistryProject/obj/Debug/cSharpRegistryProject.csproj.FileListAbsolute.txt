@@ -1,0 +1,10 @@
+C:\Users\Tom\source\repos\cSharpRegistryProject\cSharpRegistryProject\bin\Debug\cSharpRegistryProject.exe.config
+C:\Users\Tom\source\repos\cSharpRegistryProject\cSharpRegistryProject\bin\Debug\cSharpRegistryProject.exe
+C:\Users\Tom\source\repos\cSharpRegistryProject\cSharpRegistryProject\bin\Debug\cSharpRegistryProject.pdb
+C:\Users\Tom\source\repos\cSharpRegistryProject\cSharpRegistryProject\obj\Debug\cSharpRegistryProject.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\cSharpRegistryProject\cSharpRegistryProject\obj\Debug\cSharpRegistryProject.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\cSharpRegistryProject\cSharpRegistryProject\obj\Debug\cSharpRegistryProject.exe
+C:\Users\Tom\source\repos\cSharpRegistryProject\cSharpRegistryProject\obj\Debug\cSharpRegistryProject.pdb
+C:\Users\Tom\source\repos\cSharpRegistryProject\cSharpRegistryProject\bin\Debug\Cassia.dll
+C:\Users\Tom\source\repos\cSharpRegistryProject\cSharpRegistryProject\bin\Debug\Cassia.xml
+C:\Users\Tom\source\repos\cSharpRegistryProject\cSharpRegistryProject\obj\Debug\cSharpRegistryProject.csproj.CopyComplete
